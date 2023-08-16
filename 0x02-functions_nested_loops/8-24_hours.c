@@ -2,7 +2,7 @@
 
 /**
  * jacker_bauer - Prints every minute of the day of Jack Bauer
- *
+ *@j: minute of the day of jack bauer
  * Return: Always ...
  */
 
